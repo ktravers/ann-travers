@@ -1,0 +1,21 @@
+/* AUTHOR */
+
+	Master Chef: Kate Travers
+	Contact: travers [dot] kt [at] gmail.com
+	Twitter: @kttravers
+	Github: ktravers
+	From: Brooklyn, New York
+
+/* THANKS */
+
+	Inspired by: Treehouse.com
+	Link: http://teamtreehouse.com/library/how-to-make-a-website
+	Instructor: Nick Pettit
+	Twitter: @nickrp
+
+/* SITE */
+
+	Last update: 03/07/2015
+	Language: English
+	Doctype: HTML5
+	IDE: Sublime Text 3, Photoshop
