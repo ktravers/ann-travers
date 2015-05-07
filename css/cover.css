@@ -137,13 +137,11 @@ body {
   color: #006666;
   background-color: transparent;
 }
-
 @media(min-width:768px) {
 
   .navbar {
     padding-bottom: 50px;
   }
-
   .navbar-default {
     padding: 25px 0;
     border: 0;
@@ -170,7 +168,6 @@ body {
     background-color: transparent;
     float: right;
   }
-
   .navbar-default.navbar-shrink .navbar-brand {
     font-size: 1.5em;
     background-color: transparent;
